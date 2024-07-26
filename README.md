@@ -1,16 +1,24 @@
-# strapitodapp
+# Todo App with Strapi Backend
 
-A new Flutter project.
+* This Todo App is a simple and intuitive task management application designed to help you organize and keep track of your daily activities. The app uses a Strapi backend to manage tasks, providing a robust and flexible API for handling data operations. The frontend is built with Flutter, offering a smooth and responsive user experience.
 
-## Getting Started
+# Features
+* Task Management: Create, read, update, and delete tasks.
+* Real-Time Updates: Automatically updates the task list on the frontend when changes occur in the backend.
+* Task Completion: Mark tasks as completed or pending.
+* Responsive Design: User-friendly interface compatible with various devices.
 
-This project is a starting point for a Flutter application.
+Technologies Used
+*  Strapi: Headless CMS for managing and providing the API for tasks.
+* GraphQL: For efficient data querying and manipulation.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Main Screen](https://github.com/MohammedAqeeb/To-Do-List-App-with-Strapi-and-Flutter/blob/master/assets/Screenshot%202024-07-26%20at%208.48.26%20PM.png)
+
+![Add New Todo](https://github.com/MohammedAqeeb/To-Do-List-App-with-Strapi-and-Flutter/blob/master/assets/Screenshot%202024-07-26%20at%208.48.26%20PM.png)
+
+![Todo Added](https://github.com/MohammedAqeeb/To-Do-List-App-with-Strapi-and-Flutter/blob/master/assets/Screenshot%202024-07-26%20at%208.49.43%20PM.png)
+
+![Todo List](https://github.com/MohammedAqeeb/To-Do-List-App-with-Strapi-and-Flutter/blob/master/assets/Screenshot%202024-07-26%20at%208.50.20%20PM.png)
